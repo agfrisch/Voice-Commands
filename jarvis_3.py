@@ -1,10 +1,3 @@
-"""
-    Name: jarvis_3.py
-    Author: Adam Frisch
-    Created: 2/19/23
-    Purpose: Voice recognition text to speech 
-"""
-
 # pip install SpeechRecognition
 from sys import exit
 from time import sleep
